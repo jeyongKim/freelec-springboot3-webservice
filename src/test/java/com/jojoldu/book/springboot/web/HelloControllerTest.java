@@ -22,7 +22,7 @@ public class HelloControllerTest {
     private MockMvc mvc;
 
 
-    @Test
+
     public void hello_returned()  {
         /*String hello = "hello";
 
@@ -32,7 +32,7 @@ public class HelloControllerTest {
     }
 
 
-    @Test
+
     public void helloDto_returned()  {
         /*String name = "hello";
         int amount = 1000;
